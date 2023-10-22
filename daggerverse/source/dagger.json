@@ -1,4 +1,5 @@
 {
+  "root": "../.."
   "name": "source",
   "sdk": "go"
 }
