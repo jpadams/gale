@@ -1,9 +1,8 @@
 {
   "name": "gale",
-  "root": "../..",
   "sdk": "go",
   "dependencies": [
-    "../repo",
-    "../source"
+    "github.com/jpadams/gale/daggerverse/repo@main",
+    "github.com/jpadams/gale/daggerverse/source@main"
   ]
 }
